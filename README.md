@@ -16,6 +16,8 @@
 ##### Best Practice (circa 2016)
 - https://blog.risingstack.com/react-js-best-practices-for-2016/ -- a very good overview and initial starting point.
 
+##### Background
+- [Excellent video on Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)
 
 ### Build tools
 
