@@ -9,6 +9,10 @@
 
 ### Javascript frameworks
 
+#### Redux
+In general, the [Redux documentation](http://redux.js.org/) is excellent. Here are a few choice links.
+- [Usage with React](http://redux.js.org/docs/basics/UsageWithReact.html)
+- 
 #### React.js
 ##### Setup
 - https://www.twilio.com/blog/2015/08/setting-up-react-for-es6-with-webpack-and-babel-2.html
