@@ -10,7 +10,7 @@
 ### Javascript frameworks
 
 #### Redux
-The [Redux documentation](http://redux.js.org/) is excellent. Highly recommended are the "Readm Me", "Introduction", and "Basics" - they are well-written, contain background material, and enough code/examples/tutorials to be worth reading in there entirety. Here are some additional documentation links.
+The [Redux documentation](http://redux.js.org/) is excellent. The "Read Me", "Introduction", and "Basics" are well-written, contain interesting and useful background material, and enough code/examples/tutorials to be worth reading in there entirety. Here are some additional documentation links.
 - [Usage with React](http://redux.js.org/docs/basics/UsageWithReact.html)
 
 #### React.js
