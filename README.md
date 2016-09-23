@@ -1,5 +1,11 @@
 # Knowledge
 
+## Languages
+### Javascript
+
+- ES6 [Function parameter definitions and destructuring](http://stackoverflow.com/questions/30862988/function-parameter-definitions-in-es6)
+
+
 ## Linux
 ### Bash
 - http://unix.stackexchange.com/questions/153862/remove-all-files-directories-except-for-one-file
