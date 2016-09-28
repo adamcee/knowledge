@@ -3,7 +3,7 @@
 ## Languages
 ### Javascript
 
-- ES6 [Function parameter definitions and destructuring](http://stackoverflow.com/questions/30862988/function-parameter-definitions-in-es6)
+- [ES6 Function parameter definitions and destructuring](http://stackoverflow.com/questions/30862988/function-parameter-definitions-in-es6)
 - [ES6 Object Spread -- proposed, used in React Native](http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html)
 
 
