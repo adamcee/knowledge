@@ -26,7 +26,8 @@ The [Redux documentation](http://redux.js.org/) is excellent. The "Read Me", "In
 
 ##### General Stuff and Best Practices (circa 2016)
 - https://blog.risingstack.com/react-js-best-practices-for-2016/ -- a very good overview and initial starting point.
-- https://medium.com/@joshblack/stateless-components-in-react-0-14-f9798f8b992d#.ibes9czbz
+- https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e#.rgd4pnfrt - a bit more in-depth.
+- https://medium.com/@joshblack/stateless-components-in-react-0-14-f9798f8b992d#.ibes9czbz - an important concept. recommended.
 
 ##### Tutorials
 - [Getting Started with React and ES6/ES2015](https://blog.risingstack.com/the-react-way-getting-started-tutorial/)
