@@ -16,6 +16,10 @@
 
 ## Frontend
 
+### HTML
+
+- [`name` prop vs `id` prop](http://stackoverflow.com/questions/7470268/html-input-name-vs-id)
+
 ### Javascript frameworks
 
 #### Redux
