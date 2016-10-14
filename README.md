@@ -11,6 +11,9 @@
 ### Bash
 - http://unix.stackexchange.com/questions/153862/remove-all-files-directories-except-for-one-file
 
+### Sudo
+- https://www.digitalocean.com/community/tutorials/how-to-edit-the-sudoers-file-on-ubuntu-and-centos
+
 ## Git
 - https://codewords.recurse.com/issues/two/git-from-the-inside-out
 
