@@ -10,6 +10,7 @@
 ## Linux
 ### Bash
 - http://unix.stackexchange.com/questions/153862/remove-all-files-directories-except-for-one-file
+- [Tee - store and view output of any other command, at the same time](http://linux.101hacks.com/unix/tee-command-examples/)
 
 ### Sudo
 - https://www.digitalocean.com/community/tutorials/how-to-edit-the-sudoers-file-on-ubuntu-and-centos
