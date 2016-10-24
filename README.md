@@ -54,3 +54,6 @@ The [Redux documentation](http://redux.js.org/) is excellent. The "Read Me", "In
 - http://webpack.github.io/docs/usage.html
 
 ## Backend
+
+## Vim
+ - `reg` displays contents of registers. [More register tips and general tips](https://www.cs.oberlin.edu/~kuperman/help/vim/registers.html)
