@@ -1,5 +1,8 @@
 # Knowledge
 
+## Concepts
+### Functional Programming
+- [Immutability, Functional Programming and Javascript. Light Overview.](https://auth0.com/blog/intro-to-immutable-js/)
 ## Languages
 ### Javascript
 
