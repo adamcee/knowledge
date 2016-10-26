@@ -27,7 +27,7 @@
 
 - [`name` prop vs `id` prop](http://stackoverflow.com/questions/7470268/html-input-name-vs-id)
 
-### Javascript frameworks
+### Javascript libraries and frameworks
 
 #### Redux
 The [Redux documentation](http://redux.js.org/) is excellent. The "Read Me", "Introduction", and "Basics" are well-written, contain interesting and useful background material, and enough code/examples/tutorials to be worth reading in there entirety. Here are some additional documentation links.
@@ -50,6 +50,9 @@ The [Redux documentation](http://redux.js.org/) is excellent. The "Read Me", "In
 - [Excellent video on Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)
 - [React with Redux - Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.nmbdhjyev)
   - [Containers vs Components Video from React Conf 2015](https://www.youtube.com/watch?v=KYzlpRvWZ6c&t=1351)
+
+#### Immutable.js
+- [A variety of examples of Get, Set, Delete on Lists](http://untangled.io/immutable-js-all-the-examples-youll-ever-need-to-get-set-and-delete-data-from-lists/)
 
 ### Build tools
 
