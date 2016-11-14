@@ -42,6 +42,7 @@ The [Redux documentation](http://redux.js.org/) is excellent. The "Read Me", "In
 - https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e#.rgd4pnfrt - a bit more in-depth.
 - https://medium.com/@joshblack/stateless-components-in-react-0-14-f9798f8b992d#.ibes9czbz - an important concept. recommended.
 - https://medium.com/@delveeng/react-and-flux-in-production-best-practices-c87766c57cb6#.tnvi5s29k
+- https://github.com/pepaar/typescript-webpack-react-flux-boilerplate/blob/master/App/Components/SmartComponent.tsx
 
 ##### Tutorials
 - [Getting Started with React and ES6/ES2015](https://blog.risingstack.com/the-react-way-getting-started-tutorial/)
