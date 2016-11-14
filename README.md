@@ -32,6 +32,7 @@
 #### Redux
 The [Redux documentation](http://redux.js.org/) is excellent. The "Read Me", "Introduction", and "Basics" are well-written, contain interesting and useful background material, and enough code/examples/tutorials to be worth reading in there entirety. Here are some additional documentation links.
 - [Usage with React](http://redux.js.org/docs/basics/UsageWithReact.html)
+- [Good description of redux architecture options beyond the basics])http://stackoverflow.com/questions/33619775/redux-multiple-stores-why-not)
 
 #### React.js
 ##### Setup
