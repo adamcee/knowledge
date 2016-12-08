@@ -18,6 +18,9 @@
 ### Sudo
 - https://www.digitalocean.com/community/tutorials/how-to-edit-the-sudoers-file-on-ubuntu-and-centos
 
+### Grep
+- [Grep on whole words or phrases with `grep -w "want cats"` or `grep "\< want cats \>"`](http://www.computerworld.com/article/2764489/unix-tip-grepping-on-whole-words.html)
+
 ## Git
 - https://codewords.recurse.com/issues/two/git-from-the-inside-out
 
