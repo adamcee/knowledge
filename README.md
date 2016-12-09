@@ -1,5 +1,15 @@
 # Knowledge
 
+## Software Engineering Practices
+### Code Reviews
+#### (the heart of it)
+- http://goodmath.scientopia.org/2011/07/06/things-everyone-should-do-code-review/
+- https://tuventytuventy.wordpress.com/2013/02/22/code-review-etiquette/
+- http://www.developer.com/tech/article.php/3579756/Effective-Code-Reviews-Without-the-Pain.htm
+- https://github.com/thoughtbot/guides/tree/master/code-review
+- http://blog.fogcreek.com/effective-code-reviews-9-tips-from-a-converted-skeptic/
+
+
 ## Concepts
 ### Functional Programming
 - [Immutability, Functional Programming and Javascript. Light Overview.](https://auth0.com/blog/intro-to-immutable-js/)
