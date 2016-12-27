@@ -79,3 +79,5 @@ The [Redux documentation](http://redux.js.org/) is excellent. The "Read Me", "In
 
 ## Vim
  - `reg` displays contents of registers. [More register tips and general tips](https://www.cs.oberlin.edu/~kuperman/help/vim/registers.html)
+## Emacs
+ - [Switching from VIM to EMACS guide](http://blog.aaronbieber.com/2015/05/24/from-vim-to-emacs-in-fourteen-days.html)
