@@ -33,6 +33,7 @@
 
 ## Git
 - https://codewords.recurse.com/issues/two/git-from-the-inside-out
+- [Shorthand to check out previous branch](http://stackoverflow.com/questions/7206801/is-there-any-way-to-git-checkout-previous-branch)
 
 ## Frontend
 
