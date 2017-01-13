@@ -63,6 +63,7 @@ The [Redux documentation](http://redux.js.org/) is excellent. The "Read Me", "In
 - [Getting Started with React and ES6/ES2015](https://blog.risingstack.com/the-react-way-getting-started-tutorial/)
 
 ##### Background
+- [The React component lifecycle circa 2015](http://busypeoples.github.io/post/react-component-lifecycle/) 
 - https://css-tricks.com/learning-react-redux/ - Good overview of what React and Redux do, with pictures!
 - [Excellent video on Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)
 - [React with Redux - Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.nmbdhjyev)
