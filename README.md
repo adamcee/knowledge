@@ -77,6 +77,9 @@ The [Redux documentation](http://redux.js.org/) is excellent. The "Read Me", "In
 #### Webpack
 - http://webpack.github.io/docs/usage.html
 
+#### Browserify
+- [The beginning of the Browserify Handbook provides a good overview](https://github.com/substack/browserify-handbook)
+
 ## Backend
 
 ## Vim
