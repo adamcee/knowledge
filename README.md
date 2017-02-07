@@ -39,6 +39,8 @@
 
 ### The Browser
 - [Passive Event Listeners, browser implementation of scrolling/related events](http://stackoverflow.com/questions/37721782/what-are-passive-event-listeners)
+- [Google engineer article on browser scrolling and passive event listeners](https://plus.google.com/+RickByers/posts/cmzrtyBYPQc)
+-[Higher leveloverview of passive event lsiteners, and a polyfill](https://medium.com/@devlucky/about-passive-event-listeners-224ff620e68c#.jkx21lnrj)
 ### HTML
 
 - [`name` prop vs `id` prop](http://stackoverflow.com/questions/7470268/html-input-name-vs-id)
