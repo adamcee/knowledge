@@ -37,6 +37,8 @@
 
 ## Frontend
 
+### The Browser
+- [Passive Event Listeners, browser implementation of scrolling/related events](http://stackoverflow.com/questions/37721782/what-are-passive-event-listeners)
 ### HTML
 
 - [`name` prop vs `id` prop](http://stackoverflow.com/questions/7470268/html-input-name-vs-id)
